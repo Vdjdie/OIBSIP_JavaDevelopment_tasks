@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+    background-color:aqua;
+    text-align: center;
+}
+
+div {
+    background: rgb(126, 89, 107);
+    padding: 20px;
+    margin: 20px auto;
+    width: 300px;
+    border-radius: 8px;
+}
+
+input {
+    margin: 6px;
+    padding: 8px;
+    width: 70%;
+}
+
+button {
+    padding: 8px 15px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
